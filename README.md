@@ -1,3 +1,16 @@
+# Sales Dashboard
+
+A sales analytics dashboard built with React, Recharts, and Supabase.
+
+## Features
+- Date range filtering
+- Daily revenue and orders trend charts
+- Summary metrics: total revenue, total orders, averages, highest revenue days
+- Raw data table
+
+## Tech Stack
+React, Recharts, Supabase, Tailwind CSS
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
